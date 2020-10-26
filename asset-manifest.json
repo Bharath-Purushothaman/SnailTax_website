@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%7BSnailTax_website%7D/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/%7BSnailTax_website%7D/static/js/main.39643682.chunk.js",
+    "main.js.map": "/%7BSnailTax_website%7D/static/js/main.39643682.chunk.js.map",
+    "runtime-main.js": "/%7BSnailTax_website%7D/static/js/runtime-main.5be61cfa.js",
+    "runtime-main.js.map": "/%7BSnailTax_website%7D/static/js/runtime-main.5be61cfa.js.map",
+    "static/js/2.517cc5c8.chunk.js": "/%7BSnailTax_website%7D/static/js/2.517cc5c8.chunk.js",
+    "static/js/2.517cc5c8.chunk.js.map": "/%7BSnailTax_website%7D/static/js/2.517cc5c8.chunk.js.map",
+    "static/js/3.f5fed57b.chunk.js": "/%7BSnailTax_website%7D/static/js/3.f5fed57b.chunk.js",
+    "static/js/3.f5fed57b.chunk.js.map": "/%7BSnailTax_website%7D/static/js/3.f5fed57b.chunk.js.map",
+    "index.html": "/%7BSnailTax_website%7D/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/%7BSnailTax_website%7D/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.517cc5c8.chunk.js.LICENSE.txt": "/%7BSnailTax_website%7D/static/js/2.517cc5c8.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/%7BSnailTax_website%7D/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5be61cfa.js",
+    "static/js/2.517cc5c8.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.39643682.chunk.js"
+  ]
+}
